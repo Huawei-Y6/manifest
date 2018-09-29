@@ -3,7 +3,7 @@
   <project name="Huawei-Y6/android_device_huawei_scale" path="device/huawei/scale" remote="github" revision="lineage-15.1" />
   <project name="Huawei-Y6/android_device_huawei_msm8909-common" path="device/huawei/msm8909-common" remote="github" revision="lineage-15.1" />
   <project name="Huawei-Y6/android_kernel_huawei_msm8916" path="kernel/huawei/msm8916" remote="github" revision="lineage-15.1" />
-  <project name="Huawei-Y6/proprietary_vendor_huawei" path="vendor/huawei/scale" remote="github" revision="lineage-15.1" />
+  <project name="Huawei-Y6/proprietary_vendor_huawei" path="vendor/huawei" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="lineage-15.1" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
   </manifest>
