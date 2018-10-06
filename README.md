@@ -2,7 +2,7 @@
 
 After/Before you synced the Rom tree run this command:
 
-    $ git clone https://github.com/Huawei-Y6/manifest.git -b lineage-15.1 .repo/local_manifests
+    $ git clone https://github.com/Huawei-Y6/manifest.git -b cm-12.1 .repo/local_manifests
 
 Then sync up with the command: repo sync --force-sync --no-tags --no-clone-bundle
 
